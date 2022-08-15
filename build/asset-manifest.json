@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image_generator/static/css/main.ac4d266a.css",
+    "main.js": "/image_generator/static/js/main.242f22aa.js",
+    "static/media/Snakes_Black.jpg": "/image_generator/static/media/Snakes_Black.4e671b6bfba14e01ee9d.jpg",
+    "static/media/Snake.png": "/image_generator/static/media/Snake.5f886a119d589f7be3f1.png",
+    "index.html": "/image_generator/index.html",
+    "main.ac4d266a.css.map": "/image_generator/static/css/main.ac4d266a.css.map",
+    "main.242f22aa.js.map": "/image_generator/static/js/main.242f22aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac4d266a.css",
+    "static/js/main.242f22aa.js"
+  ]
+}

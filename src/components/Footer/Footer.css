@@ -1,0 +1,43 @@
+footer {
+  background-color: #f4b400;
+  width: 100%;
+  display: flex;
+  font-family: "Comic Neue";
+  font-size: 1rem;
+  justify-content: center;
+  padding: 15px 0px;
+  box-shadow: 5px 3px 15px 8px rgba(0, 0, 0, 0.5);
+}
+.copyright {
+  margin-left: 50px;
+}
+.copy_icon {
+  margin-bottom: -8px;
+}
+.heart {
+  animation: ico 2s linear infinite;
+  margin-bottom: -8px;
+  color: rgb(230, 0, 0);
+}
+@keyframes ico {
+  0% {
+    transform: scale(0.5);
+  }
+  50% {
+    transform: scale(1.25);
+  }
+  100% {
+    transform: scale(0.5);
+  }
+}
+@media only screen and (max-width: 600px) {
+  footer {
+    font-size: 0.75rem;
+  }
+  .copy_icon {
+    margin-bottom: -8px;
+  }
+  .heart {
+    margin-bottom: -8px;
+  }
+}
